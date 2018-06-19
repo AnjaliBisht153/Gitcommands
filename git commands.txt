@@ -1,4 +1,4 @@
-Git Commands:
+Git Commands:-
 1. git config --global user.name "Your name" : It is used for configure the username to be used with your commits. 
 2.git config --global user.email "Your email" : It is used for configure the email address to be used with your commits.
 3.git init : It is used to initialize the tracker inside the folder to be tracked.
